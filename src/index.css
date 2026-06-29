@@ -2,11 +2,15 @@
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   --bg-color: #fff5e4;
   --text-color: #800021;
+  --btn-color: #881144;
+  --btn-hover: #7e0f3f;
+  --white: #fff;
 }
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  font-size: 62.5%;
   list-style: none;
 }
 
